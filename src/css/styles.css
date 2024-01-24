@@ -33,9 +33,6 @@
     height: 200px;
   }
   
-
-
-  
   .feedback-form {
     width: 408px;
     margin: 0 auto;
@@ -82,7 +79,7 @@
     margin-top: 16px;
     padding: 8px 16px;
     border-radius: 8px;
-
+background-color: black;
     cursor: pointer;
     border: none;
   }
