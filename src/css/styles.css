@@ -14,14 +14,17 @@
 
   
   .gallery {
-    max-width: 1120px;
-    margin: 26px auto;
-    padding: 0;
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
+    max-width: 1440px;
+    height: 696px;
+    padding: 24px 156px;
+    flex-direction: column;
     justify-content: center;
+    align-content: center;
+    align-items: center;
     gap: 24px;
+    background-color: #fff;
   }
   
   .gallery-item {
